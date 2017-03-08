@@ -11,3 +11,6 @@ Blog de SalCorp
 -Estre proyecto trata de tal cosa.
 
 [Mayor documentacion]
+
+
+[Agradecimientos]
